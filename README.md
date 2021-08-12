@@ -1,6 +1,6 @@
 ## Hi there 👋🏽 I'm Sameer!
 
-### I'm a current third-year Honors Computer Science student at Texas A&M University (TAMU)
+### I'm a current third-year Honors Computer Science student at Texas A&M University
 
 - 🔭 In the Fall of 2021, I'll have started working at Intel as a Project Management Intern
 - :office: Currently, I work at the [Embedded Signal Processing Lab](https://jafari.tamu.edu/) at Texas A&M, collaborating on a COVID-19 research project
