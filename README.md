@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[Click Here](https://www./linkedin.com/in/sameer-hussain-0933b019b/)
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)[Click Here](https://www.instagram.com/sameerhussa.in/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[Click Here](https://www./linkedin.com/in/sameer-hussain-0933b019b/) <br />
+![Instagram](https://img.shields.io/badge/<sameerhussa.in>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)[Click Here](https://www.instagram.com/sameerhussa.in/)
 
 <br />
 
