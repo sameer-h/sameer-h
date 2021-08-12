@@ -1,6 +1,6 @@
-### Hi there 👋🏽, I'm Sameer!
+## Hi there 👋🏽, I'm Sameer!
 
-## I'm a current third-year Honors Computer Science student at Texas A&M University
+### I'm a current third-year Honors Computer Science student at Texas A&M University
 
 - 🔭 I just started working at Intel as a Project Management Intern
 - 🌱 I’m currently learning Agile Development and JavaScript
