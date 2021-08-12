@@ -3,7 +3,7 @@
 ### I'm a current third-year Honors Computer Science student at Texas A&M University
 
 - 🔭 In the Fall of 2021, I'll have started working at Intel as a Project Management Intern
-- :office: Currently, I work at the [Embedded Signal Processing Lab](https://jafari.tamu.edu/) at Texas A&M, collaborating with a team on a COVID-19 research project
+- :office: Currently, I work at the [Embedded Signal Processing Lab](https://jafari.tamu.edu/) at [TAMU](https://tamu.edu), collaborating with a team on a COVID-19 research project
 - 🌱 I’m trying to learn Agile Development and JavaScript at the moment
 - :handshake: I’m always looking to collaborate with others on cool side projects (check out my current repositories)
 - 💯 2021 Goals: Contribute to more projects and enhance my technical skills
