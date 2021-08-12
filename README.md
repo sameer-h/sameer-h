@@ -1,4 +1,4 @@
-## Hi there 👋🏽, I'm Sameer!
+## Hi there 👋🏽,   I'm Sameer!
 
 ### I'm a current third-year Honors Computer Science student at Texas A&M University
 
