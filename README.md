@@ -10,7 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sameer-h | LinkedIn" width="22px" src="https://www./linkedin.com/in/sameer-hussain-0933b019b/" />][linkedin]
+LinkedIn | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)           | `![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)`[LinkedIn](https://www./linkedin.com/in/sameer-hussain-0933b019b/)
+
 [<img align="left" alt="sameer-h | Instagram" width="22px" src="https://www.instagram.com/sameerhussa.in/" />][instagram]
 
 <br />
