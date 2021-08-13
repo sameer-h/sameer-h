@@ -4,7 +4,7 @@
 
 - 🔭 In the Fall of 2021, I'll have started working at Intel as a Project Management Intern
 - :office: Currently, I work at the [Embedded Signal Processing Lab](https://jafari.tamu.edu/) at Texas A&M, collaborating on a COVID-19 research project
-- 🌱 I’m trying to learn Agile Development and JavaScript at the moment
+- 🌱 I’m trying to learn Agile Development and Machine Learning (libraries like [TensorFlow](https://www.tensorflow.org/) and [pandas](https://pandas.pydata.org/) at the moment
 - :handshake: I’m always looking to collaborate with others on cool side projects (check out my current repositories)
 - 💯 2021 Goals: Contribute to more projects and enhance my technical skills
 - ⚡ Fun fact: I have lived overseas from the U.S for 13 years!
