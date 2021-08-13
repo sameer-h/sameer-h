@@ -7,7 +7,7 @@
 - 🌱 I’m trying to learn Agile Development and Machine Learning (libraries like [TensorFlow](https://www.tensorflow.org/) and [pandas](https://pandas.pydata.org/) at the moment)
 - :handshake: I’m always looking to collaborate with others on cool side projects (check out my current repositories)
 - 💯 2021 Goals: Contribute to more projects and enhance my technical skills
-- :dizzy: I just finished two [edX](https://www.edx.org/) courses: UC Berkeley's [Data Science in Python](https://www.edx.org/course/foundations-of-data-science-computational-thinking) and UPenn's [Data Structures and Software Design](https://www.edx.org/course/data-structures-and-software-design)
+- :dizzy: I just finished two edX courses: UC Berkeley's [Data Science in Python](https://www.edx.org/course/foundations-of-data-science-computational-thinking) and UPenn's [Data Structures and Software Design](https://www.edx.org/course/data-structures-and-software-design)
 - ⚡ Fun fact: I have lived overseas from the U.S for 13 years!
 
 ###
