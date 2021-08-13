@@ -13,11 +13,6 @@
 
 ### Connect with me:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br />[Click Here](https://www.linkedin.com/in/sameer-hussain-0933b019b/) <br />
-<br />
-<br />
-![Instagram](https://img.shields.io/badge/<sameerhussa.in>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <br /> [Click Here](https://www.instagram.com/sameerhussa.in/)
-
 [<img src="https://raw.githubusercontent.com/sameer-h/sameer-h/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/sameer-hussain-0933b019b/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/sameerhussa.in/)
 
