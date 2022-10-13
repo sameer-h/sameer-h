@@ -1,6 +1,6 @@
 ## Hi there 👋🏽 I'm Sameer!
 
-### I'm a current third-year Honors Computer Science student at Texas A&M University
+### I'm a current fourth-year Honors Computer Science student at Texas A&M University
 
 ###
 
