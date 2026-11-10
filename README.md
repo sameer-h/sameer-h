@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sameer 👋🏽</h1>
 
 <p align="center">
-  I build agentic AI tools and like digging into the infrastructure underneath them.
+  building
 </p>
 
 <p align="center">
