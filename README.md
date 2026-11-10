@@ -44,17 +44,6 @@ mindmap
 
 ### 📊 GitHub activity
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sameer-h&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer-h&show_icons=true&hide_border=true&include_all_commits=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-h&layout=compact&hide_border=true&langs_count=6&theme=github_dark">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-h&layout=compact&hide_border=true&langs_count=6">
-  </picture>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sameer-h&hide_border=true&theme=github-dark-blue">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=sameer-h&hide_border=true">
