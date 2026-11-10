@@ -1,28 +1,68 @@
-## Hi there 👋🏽 I'm Sameer!
+<h1 align="center">Hi, I'm Sameer 👋🏽</h1>
 
-### I'm a current fourth-year Honors Computer Science student at Texas A&M University
+<p align="center">
+  I build agentic AI tools and like digging into the infrastructure underneath them.<br/>
+  Lately I'm going deeper on ML fundamentals: deep learning, RL, and how models get served at scale.
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-hussain-0933b019b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/sameerhussa.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sameer-h&style=for-the-badge&color=555555&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-### Connect with me:
+---
 
-[<img src="https://raw.githubusercontent.com/sameer-h/sameer-h/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/sameer-hussain-0933b019b/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/sameerhussa.in/)
+### 🧠 What I'm into
 
-<br />
+```mermaid
+mindmap
+  root((Sameer))
+    AI agents
+      Tool use
+      Evals
+      Agent harnesses
+    Machine learning
+      Deep learning
+      Reinforcement learning
+      Probabilistic models
+    Systems
+      Inference at scale
+      Reliability
+    Off the clock
+      Travel
+      Points and miles
+```
 
-### Languages and Tools:
+### 🛠️ Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,js&perline=10" alt="Languages and ML"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,git,github,bash,vscode,latex&perline=10" alt="Web and tools"/>
+</p>
+
+### 📊 GitHub activity
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sameer-h&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark">
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer-h&show_icons=true&hide_border=true&include_all_commits=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-h&layout=compact&hide_border=true&langs_count=6&theme=github_dark">
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-h&layout=compact&hide_border=true&langs_count=6">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sameer-h&hide_border=true&theme=github-dark-blue">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=sameer-h&hide_border=true">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameer-h/sameer-h/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sameer-h/sameer-h/output/github-snake.svg">
+</picture>
